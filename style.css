@@ -1,0 +1,109 @@
+.head{
+    background-color: rgb(143, 185, 185);
+    /*width: 200px;*/
+    height: 40px;
+    /* font-size: 20px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+
+
+
+
+
+}
+
+.logo{
+
+width: 80px;
+height: 50px;
+margin-left: 4px;
+border-radius: 15px;
+/* height: 60px; */
+
+
+
+}
+
+.logo :hover{
+border-radius: 15px;
+width: 88px;
+height: 58px;
+
+}
+
+
+.headerlinks a{
+    color: white;
+    padding: 5px 1px;
+    text-decoration: solid;
+
+
+
+}
+
+.headerlinks button{
+
+    background-color: blueviolet;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    text-decoration: solid;    
+}
+
+.headerlinks a:hover{
+    color: red;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.headerlinks button:hover{
+    color:rgb(19, 12, 124);
+    background-color: rgb(194, 178, 40);
+    border-radius: 15px;
+}
+
+
+.footer{
+    justify-self: center ;
+    
+
+}
+.body{
+    background-color: aquamarine;
+    height: 300px;
+    display: flex ;
+    justify-content: space-between;
+    padding: 30px 30px;
+    border-radius: 15px;
+    
+}
+
+.body div{
+
+    background-color: azure;
+    width: 180px;
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: solid;
+    font-size: larger;
+    font-weight:bolder;
+    border-radius: 15px;
+    
+}
+
+.body  :hover{
+
+
+    background-color: brown;
+}
+.body p{
+
+
+    font-size: medium;
+    font-weight: lighter;
+}
+
