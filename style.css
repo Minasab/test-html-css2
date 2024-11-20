@@ -73,7 +73,9 @@ height: 58px;
 
 }
 .body{
-    background-color: aquamarine;
+    background-color: rgb(101, 84, 104);
+    width: 50%;
+    max-width: 50%;
     height: 300px;
     display: flex ;
     justify-content: space-between;
